@@ -2,7 +2,7 @@
 
 # 乐淘！！让您的校园生活多姿多彩！！
 
-![商标](D:\乐淘letao\商标.png)
+![商标](https://github.com/RYaNzzZ1/letao/blob/master/images/%E5%95%86%E6%A0%87.png)
 
 ## 一、前端部署
 
